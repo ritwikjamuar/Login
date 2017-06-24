@@ -1,0 +1,19 @@
+<resources>
+
+	<string name = "app_name">Login</string>
+
+	<!-- Facebook Application IDs -->
+	<string name = "facebook_app_id">1703411276626866</string>
+	<string name = "fb_login_protocol_scheme">fb1703411276626866</string>
+
+	<!-- Main Activity -->
+	<string name = "login">Login</string>
+
+	<!-- DataDisplayActivity -->
+	<string name = "image">Profile Image</string>
+	<string name = "name">Name</string>
+	<string name = "email">EMail</string>
+	<string name = "gender">Gender</string>
+	<string name = "id">ID</string>
+
+</resources>
